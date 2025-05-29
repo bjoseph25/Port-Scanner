@@ -17,7 +17,7 @@ A lightweight, fast, and customizable Python-based port scanner designed for net
 ## 🛠️ Tech Stack
 
 - **Language**: Python 3
-- **Libraries**: `socket`, `threading`, `argparse`, `concurrent.futures`
+- **Libraries**: `socket`, `IPy`
 
 ---
 
